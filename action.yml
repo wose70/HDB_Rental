@@ -1,3 +1,5 @@
+- name: DeepWiki Documentation Generator
+  uses: he1senbrg/deepwiki-action@v1.2
 name: "DeepWiki Documentation Generator"
 description: "Extract your project's documentation from DeepWiki and save it to your repository's docs/ directory"
 author: he1senbrg
